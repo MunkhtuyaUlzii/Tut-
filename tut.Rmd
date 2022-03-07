@@ -1,0 +1,18 @@
+---
+
+title: "Tut"
+author: "Munkhtuya Ulzii (s4651732)"
+date: "3/7/2022"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Header 1
+
+**R Markdown is a file format for using R to create dynamic documents. An R Markdown document comprises sections of embedded R code and is written in markdown (a simple plain text format).**
+
+*R Markdown is a file format for using R to create dynamic documents. An R Markdown document comprises sections of embedded R code and is written in markdown (a simple plain text format).*
+
